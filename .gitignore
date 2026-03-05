@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Crucial to ignore these!)
+.venv/
+env/
+venv/
+ENV/
+conda-env/
+
+# Data files (If your CSVs are huge)
+*.csv
+*.xlsx
+
+# Streamlit/IDE specific
+.streamlit/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
